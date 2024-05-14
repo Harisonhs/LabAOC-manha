@@ -6,6 +6,5 @@ int fatorial(int n){
 }
 
 int main(){
-    printf("%d", fatorial(10));
     return 0;
 }
